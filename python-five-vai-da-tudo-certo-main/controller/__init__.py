@@ -6,7 +6,7 @@ import sys
 filepath = os.path.dirname(__file__)
 sys.path.append(os.path.join(filepath, '..'))
 
-# importa módulo do banco de dados; permite rodar as funções desse módulo através da sintaxe 
+# importa módulo do  banco de dados; permite rodar as funções desse módulo através da sintaxe 
 # model.<nome_da_função>
 # por exemplo, model.select_rows
 # para selecionar as linhas
