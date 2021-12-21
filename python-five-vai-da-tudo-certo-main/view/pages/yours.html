@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../styles/yours.css">
+	<link rel="icon" href="../images/goldmusic.jpeg" />
+	<title>Ecleticos today!</title>
+</head>
+<body>
+<div class="center">
+	<h1>Bem vindos!</h1>
+	<p>Essa página é destinada a aqueles amantes de playlists de gêneros diversos e ecléticos. Aqui você irá encontrar uma playlist eclética atualizada a cada semana!</p>
+	<div class="center_inside">
+		<h2>Playlist atualizada da semana!<3</h2>
+		<p>
+			Os gêneros musicais escolhidos dessa semana são: art pop, mpb, gospel, pop, samba, mpb e dance pop.
+		</p>
+		<p>Clique no botão para visualizar a playlist!!</p>
+		<form id="populate_table" name="populate_table" action="http://localhost:5000/populate_table" method="POST">
+			<input type="submit">
+		</form>
+		<table id="first_task_response_table">
+		</table>
+		<p id="first_task_response_paragraph">resposta</p>
+	</div>
+	<div class="center_inside">
+		<h2>Quer saber quem canta? Que gênero musical é esse? Mais desse artista?</h2>
+		<p>
+			Veja as seções disponíveis, escolha e clique!
+		</p>
+                <img src="../images/clinkclinkbi.jpg" id="imgpos"/>
+                <form id="select_and_populate_table" name="select_and_populate_table" action="http://localhost:5000/select_and_populate_table" method="POST">
+			<label for="second_task_table_selector">Sessões:</label><br>
+			<select name="second_task_table_selector" id="second_task_table_selector">
+				<option value="artista">Artista</option><!-- TODO trocar pelo nome da tabela! -->
+				<option value="musica">Musica</option> 
+				<option value="genero">Gênero</option><!-- TODO trocar pelo nome da tabela! -->
+				<option value="musicas_do_artista">Musicas do Artista</option><!-- TODO trocar pelo nome da tabela! -->
+			</select>
+			<input type="submit">
+		</form>
+		<table id="second_task_response_table">
+		</table>
+		<p id="second_task_response_paragraph">Resposta</p>
+	</div>
+</div>
+</body>
+<script
+	src="https://code.jquery.com/jquery-3.3.1.min.js"
+	integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+	crossorigin="anonymous">
+</script>
+<script type="text/javascript" src="../scripts/main.js" id="db_query_tables_script"></script>
+</html>
