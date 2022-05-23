@@ -1,10 +1,10 @@
-### Olá! 👋
+### Olá!
 
-Meu nome é Maria Eduarda Lencina da Silva.
-Tenho 17 anos.
-Aluna do terceiro ano do técnico integrado ao ensino médio Informática para Web no Colégio Técnico Industrial de Santa Maria (CTISM), na UFSM. :)
+Sou a Maria Eduarda Lencina da Silva.
+Tenho 18 anos.
+Aluna do terceiro ano do Técnico de Informática para Web Integrado ao Ensino Médio no Colégio Técnico Industrial de Santa Maria (CTISM), na Universidade Federal de Santa Maria (UFSM). :)
 
-Nasci e vivo na cidade de Santa Maria no Rio Grande do Sul.
+Natural de Santa Maria, Rio Grande do Sul.
 
  
 
