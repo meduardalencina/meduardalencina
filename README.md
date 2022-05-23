@@ -10,7 +10,7 @@ Natural de Santa Maria, Rio Grande do Sul, Brasil.
 
 I'm Maria Eduarda Lencina da Silva.
 I'm 18 years old.
-Third year High School student of Web Development Integrated to High School at Colégio Técnico Industrial de Santa Maria (CTISM), at the Federal University of Santa Maria (UFSM). :)
+I take a technical course in Web Development Integrated to High School at Colégio Técnico Industrial de Santa Maria (CTISM), at the Federal University of Santa Maria (UFSM). :)
 
 Born in Santa Maria, Rio Grande do Sul, Brazil.
 
