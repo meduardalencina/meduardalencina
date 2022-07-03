@@ -6,8 +6,7 @@ Aluna do terceiro ano do Técnico de Informática para Web Integrado ao Ensino M
 
 Natural de Santa Maria, Rio Grande do Sul, Brasil.
 
-### Hi! :)
-
+lopxcz5
 I'm Maria Eduarda Lencina da Silva./p
 I'm 18 years old./p
 I take a technical course in Web Development Integrated to High School at Colégio Técnico Industrial de Santa Maria (CTISM), at the Federal University of Santa Maria (UFSM). :)
